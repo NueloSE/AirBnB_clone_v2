@@ -16,7 +16,7 @@ def display():
     """
     This function displays the HBNB on the screen
     """
-    return "HBNB"
+    return "Hello HBNB!"
 
 
 if __name__ == "__main__":
