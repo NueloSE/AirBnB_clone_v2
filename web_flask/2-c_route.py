@@ -31,7 +31,7 @@ def nextPage(text):
     """
     print a custom page from url
     """
-    return f"C {escape(text.replace("_", " "))}"
+    return f"C {escape(text.replace('_', ' '))}"
 
 
 if __name__ == "__main__":
